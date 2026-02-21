@@ -2,9 +2,9 @@
 
 ## Overview
 
-**Shamzam** is a Shazam-like system built using Python microservices and REST APIs.
-It allows administrators to manage a music catalogue and enables users to identify songs from short audio fragments.
+**Shamzam** is a Shazam-like audio recognition MVP built using Python microservices.
 
+The system allows administrators to manage a music catalogue and enables users to identify songs from audio fragments using the Audd.io recognition API.
 ---
 
 ## How It Works
