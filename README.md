@@ -70,16 +70,6 @@ pip install -r requirements.txt
 * list catalogue contents,
 * recognise songs from audio fragments.
 
-* User
-  ↓
-Shamzam Gateway (3002)
-  ↓
-Recognition Service (3001) → Audd.io API
-  ↓
-Catalogue Service (3000)
-  ↓
-SQLite DB
-
 ---
 
 ## Testing
