@@ -50,7 +50,7 @@ Each service exposes REST API endpoints using JSON input and output.
 
 
 ## Running the System
-![Shamzam Architecture](docs/architecture.png.png)
+![Shamzam Architecture](docs/architecture.png)
 1. Install dependencies:
 
 ```
