@@ -45,17 +45,12 @@ Each service exposes REST API endpoints using JSON input and output.
 
 ---
 
-## Technology Stack
 
-* Python
-* REST APIs
-* SQLite Database
-* Audd.io Audio Recognition API
 
----
+
 
 ## Running the System
-
+![Shamzam Architecture](docs/architecture.png.png)
 1. Install dependencies:
 
 ```
@@ -71,7 +66,13 @@ pip install -r requirements.txt
 * recognise songs from audio fragments.
 
 ---
+## Technology Stack
 
+* Python
+* REST APIs
+* SQLite Database
+* Audd.io Audio Recognition API
+  ---
 ## Testing
 
 End-to-end tests cover:
